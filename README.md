@@ -14,3 +14,5 @@ Tu wrzucam kod z każdej sesji nauki.
 2. SQL - bazy danych
 3. Excel - analiza danych
 4. Projekty do portfolio
+## Opis
+Bardzo chętnie przyjmę wszelkie rady
